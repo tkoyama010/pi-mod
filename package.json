@@ -1,0 +1,12 @@
+{
+  "name": "pi-mod",
+  "version": "0.1.0",
+  "description": "Mods for the pi coding agent: small extensions that change how pi behaves.",
+  "type": "module",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": "github:tkoyama010/pi-mod",
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
